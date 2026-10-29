@@ -1,235 +1,294 @@
-Hi, I'm Veroxs 👋
+# Hi, I'm Veroxs 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Cybersecurity+%26+AI+Security;Web+Application+Security;Networking+%26+Linux;Python+%26+Technical+Automation;Learning+by+Building" alt="Typing SVG" />
-</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Cybersecurity+Enthusiast;Aspiring+SOC+Analyst;Networking+%26+Cloud+Computing;IoT+%26+Embedded+Systems;Python+%26+Web+Development" alt="Typing SVG" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Veroxs0">
     <img src="https://img.shields.io/badge/GitHub-Veroxs0-181717?style=for-the-badge&logo=github" alt="GitHub">
   </a>
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge" alt="Cybersecurity">
-  <img src="https://img.shields.io/badge/Focus-AI%20Security-purple?style=for-the-badge" alt="AI Security">
   <img src="https://img.shields.io/badge/Focus-Networking-blue?style=for-the-badge" alt="Networking">
+  <img src="https://img.shields.io/badge/Focus-IoT-00979D?style=for-the-badge" alt="IoT">
   <img src="https://img.shields.io/badge/Status-Always%20Learning-success?style=for-the-badge" alt="Always Learning">
-</p>👨‍💻 About Me
+</p>
 
-I'm Abdullah Adel Ali, a technology student at El Sewedy University of Technology, interested in cybersecurity, AI security, networking, Linux, and software development.
+## 👨‍💻 About Me
 
-I enjoy understanding how systems work, investigating technical problems, analyzing network traffic, exploring application vulnerabilities, and building practical projects that connect software, hardware, and security.
+I'm Abdullah Adel Ali, a technology student at El Sewedy University for Technology, interested in cybersecurity, networking, cloud computing, software development, digital forensics, and the Internet of Things (IoT).
 
-My learning approach combines university coursework, hands-on labs, independent research, technical troubleshooting, and project-based development.
+I enjoy learning how systems work, investigating technical problems, analyzing network communication, exploring application vulnerabilities, and building practical projects that connect software, hardware, and security.
 
-I'm particularly interested in:
+My learning approach combines academic coursework, hands-on labs, independent research, technical troubleshooting, and project-based development.
 
-- Cybersecurity and defensive security fundamentals.
-- AI security, LLM security, and secure AI applications.
-- Web application security and vulnerability analysis.
-- Networking, Linux, and infrastructure security.
-- Python scripting and technical automation.
-- IoT security and embedded systems.
+I'm particularly interested in developing my skills in Security Operations Center (SOC) analysis, defensive security, network security, web application security, and digital investigations.
 
-My goal: Build a strong technical foundation, develop demonstrable projects, and grow into a cybersecurity professional with an understanding of both traditional systems and emerging AI technologies.
+### 🎯 Areas of Interest
 
-🎯 Core Focus Areas
+- 🔐 Cybersecurity, SOC operations, and Blue Team fundamentals
+- 🕵️ Digital forensics and Android application analysis
+- 🌐 Networking, routing, BGP, and network troubleshooting
+- 🐧 Linux administration, Bash fundamentals, and Python scripting
+- ☁️ Cloud computing, virtualization, and containerization
+- 🛡️ Web application security and vulnerability analysis
+- 📡 IoT security, ESP32, and embedded systems
+- 💻 Web development and technical automation
 
-🔐 Cybersecurity & Web Application Security
+- 🎓 Education: El Sewedy University for Technology
+- 💻 GitHub: [@Veroxs0](https://github.com/Veroxs0)
 
-Areas studied through coursework and authorized lab environments:
+My goal is to strengthen my technical foundations, build demonstrable projects, and grow toward cybersecurity and infrastructure-focused roles.
 
-- HTTP requests, responses, and application behavior.
-- SQL Injection fundamentals and vulnerability analysis.
-- Cross-Site Scripting (XSS): reflected, stored, and DOM-based concepts.
-- Authentication, authorization, and access-control weaknesses.
-- IDOR and insecure direct object reference scenarios.
+---
+
+## 🛠️ Technical Skills & Technologies
+
+### 💻 Programming & Web Development
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
+</p>
+
+- Front-end development using HTML, CSS, and JavaScript.
+- DOM manipulation, event handling, and interactive interfaces.
+- CRUD functionality in browser-based applications.
+- Python scripting and document-processing automation.
+- Basic command-line scripting concepts and Linux shell operations.
+- Exploring Bash scripting for system administration and automation.
+- Understanding HTTP requests and responses in web applications.
+- Building simple dashboards and browser-based control interfaces.
+
+### 🔐 Cybersecurity & Web Application Security
+
+<p>
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" alt="Kali Linux">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite">
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge" alt="OWASP ZAP">
+  <img src="https://img.shields.io/badge/Nmap-214478?style=for-the-badge" alt="Nmap">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark">
+</p>
+
+Areas studied through coursework and authorized labs:
+
+- Web application penetration testing fundamentals.
+- Network discovery and service investigation using Nmap.
+- HTTP traffic inspection and packet analysis with Wireshark.
+- SQL Injection, including UNION-based injection concepts.
+- Authentication and authorization weaknesses.
+- Reflected XSS, stored XSS, and DOM-based XSS.
+- IDOR and insecure access-control scenarios.
 - Input validation and output encoding.
 - Security misconfiguration and information disclosure.
-- HTTP security headers and HSTS.
-- Vulnerability impact assessment and remediation concepts.
-- Security testing and technical documentation.
+- HTTP security headers, including HSTS.
+- File extension validation and path-handling weaknesses.
+- Vulnerability analysis, impact assessment, and remediation concepts.
+- Security testing and reporting in controlled environments.
 
-Tools explored in relevant labs include Kali Linux, Burp Suite, OWASP ZAP, Nmap, Wireshark, and Metasploit.
+Tools explored or used in relevant labs include Kali Linux, Nmap, Zenmap, Burp Suite, OWASP ZAP, Wireshark, and Metasploit.
 
-🛡️ AI Security & Secure AI Applications
+### 🛡️ SOC, Blue Team & Security Monitoring
 
-During university training, I researched security considerations for an AI chatbot intended for a Learning Management System (LMS).
+My learning interests include defensive security, log analysis, network monitoring, and security infrastructure.
 
-My work and research interests include:
+Topics studied or explored:
 
-- Prompt injection and malicious input handling.
-- AI application security architecture.
-- Authentication, authorization, and permission boundaries.
-- API security fundamentals.
-- Security layers and defense-in-depth.
-- Threat identification and mitigation planning.
-- Secure integration of AI applications with external systems.
-- Understanding the trade-offs between security, performance, cost, and usability.
+- Security Information and Event Management (SIEM) fundamentals.
+- Log collection, correlation, and security event investigation concepts.
+- Network traffic analysis and protocol inspection.
+- Intrusion Detection Systems (IDS) and Intrusion Prevention Systems (IPS).
+- Firewall policies and network access control.
+- Threat intelligence and security information sharing.
+- Incident detection and investigation fundamentals.
+- Security monitoring and alert-triage concepts.
+- Web Application Firewall (WAF) fundamentals.
+- Malware analysis and sandboxing concepts.
+- Operational Technology (OT) and Industrial Control Systems (ICS) security.
 
-I'm continuing to develop my practical understanding of LLM security, agent security, and secure AI system design.
+Security infrastructure and related technologies explored include FortiGate-related concepts, FortiGuard documentation, FortiClient concepts, IPsec VPN, Network Address Translation (NAT), identity-based access, and MISP documentation.
 
-🌐 Networking & Infrastructure
+I am continuing to develop my practical understanding of SOC workflows, security monitoring, and incident investigation.
+
+### 🌐 Networking
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco_Packet_Tracer-049FD9?style=for-the-badge&logo=cisco&logoColor=white" alt="Cisco Packet Tracer">
+  <img src="https://img.shields.io/badge/IPv4-Networking-blue?style=for-the-badge" alt="IPv4">
+  <img src="https://img.shields.io/badge/BGP-Routing-informational?style=for-the-badge" alt="BGP">
+</p>
 
 - IPv4 addressing and subnetting.
 - Network topology design and simulation.
-- Routing fundamentals and routing-table analysis.
+- Router and switch configuration fundamentals.
+- Static routing and routing-table analysis.
 - Border Gateway Protocol (BGP) concepts.
-- Autonomous Systems and BGP peering.
+- Autonomous Systems (AS) and BGP peering.
 - Prefix advertisement and route filtering.
 - Route maps and routing-policy concepts.
-- ICMP, connectivity testing, and troubleshooting.
-- Network traffic inspection using Wireshark.
-- Virtual network interfaces, gateways, and routing.
-- Network security and access-control fundamentals.
+- ICMP, ping, and end-to-end connectivity testing.
+- Network interface, gateway, and routing troubleshooting.
+- Link-failure testing and routing convergence concepts.
+- Network security and traffic-analysis fundamentals.
 
-Tools and technologies explored include Cisco Packet Tracer, Nmap, Wireshark, and Linux networking utilities.
+### 🐧 Linux, Cloud Computing & Virtualization
 
-🐧 Linux, Cloud & Virtualization
+<p>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" alt="VMware">
+</p>
 
 - Linux command-line operations and file management.
-- Basic system administration and troubleshooting.
-- Linux networking and service configuration.
-- Bash fundamentals and command-line automation.
+- Basic system administration and service troubleshooting.
+- Linux networking, interfaces, routes, and connectivity.
+- Bash scripting fundamentals and automation concepts.
 - Cloud service models: IaaS, PaaS, and SaaS.
-- Virtual machines and isolated lab environments.
-- Docker images, containers, and Docker Compose concepts.
-- Web-server and database deployment fundamentals.
-- Troubleshooting ports, dependencies, permissions, and services.
+- Cloud deployment models and virtualization.
+- Virtual machine setup and isolated lab environments.
+- Docker images, containers, and service execution.
+- Docker Compose and multi-container environments.
+- Web-server and database service deployment concepts.
+- Troubleshooting ports, permissions, dependencies, and services.
 - Windows and Linux development environments.
 
-Technologies explored include Kali Linux, Ubuntu Server, Docker, Docker Compose, and VMware.
+### 📡 IoT & Embedded Systems
 
-💻 Programming & Automation
-
-- Python scripting and application development.
-- HTML, CSS, and JavaScript fundamentals.
-- DOM manipulation and event handling.
-- CRUD operations in browser-based applications.
-- Python GUI development with Tkinter.
-- PDF text extraction and document-processing workflows.
-- OCR concepts and Arabic-language document processing.
-- Basic automation and command-line scripting.
-
-📡 IoT & Embedded Systems
+<p>
+  <img src="https://img.shields.io/badge/ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32">
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
 
 - ESP32 and ESP8266 development experiments.
 - GPIO configuration and digital output control.
-- RFID-based identification using the RC522 module.
+- LED control and traffic-light simulations.
+- RFID identification using the RC522 module.
 - Keypad-based authentication concepts.
-- Servo motor control and access-control workflows.
+- Servo motor control for access-control workflows.
+- LCD and buzzer integration.
 - PIR motion detection.
 - DHT11 temperature and humidity sensing.
-- LCD and buzzer integration.
 - Firebase Realtime Database integration concepts.
 - Web-based hardware monitoring and control.
+- Embedded hardware troubleshooting and sensor integration.
 
-🚀 Projects & Practical Work
+### 🕵️ Digital Forensics & Android Analysis
 
-1. Smart Door Access Log — IoT Security System
+<p>
+  <img src="https://img.shields.io/badge/Autopsy-Digital_Forensics-34495E?style=for-the-badge" alt="Autopsy">
+  <img src="https://img.shields.io/badge/MobSF-Mobile_Security-007ACC?style=for-the-badge" alt="MobSF">
+  <img src="https://img.shields.io/badge/JADX-Android_Analysis-3DDC84?style=for-the-badge" alt="JADX">
+</p>
 
-Technologies: ESP32, RC522 RFID, keypad, servo motor, PIR sensor, LCD, buzzer, Firebase, HTML, CSS, JavaScript.
+Topics and tools explored:
 
-An IoT access-control project exploring the integration of physical security, authentication, event logging, and web-based monitoring.
+- Digital forensic investigation concepts.
+- Evidence analysis and investigation workflows.
+- Autopsy and The Sleuth Kit.
+- Android application analysis fundamentals.
+- MobSF for mobile application security analysis.
+- JADX and APKTool for application inspection.
+- Network traffic inspection with Wireshark.
+- MISP documentation and threat intelligence concepts.
 
-Planned or implemented functionality, depending on the current project version:
+My focus is on understanding investigation workflows, application behavior, and security-relevant artifacts.
 
-- RFID-based access authentication.
-- Keypad authentication concepts.
+---
+
+## 🚀 Featured Projects
+
+### 1. Smart Door Access Log — IoT Security System
+
+**Technologies:** ESP32, RC522 RFID, keypad, SG90 servo motor, PIR sensor, LCD, buzzer, Firebase, HTML, CSS, JavaScript.
+
+An IoT-based access-control project designed to combine physical security, authentication, event logging, and web-based monitoring.
+
+Key features and objectives:
+
+- RFID card authentication.
+- Keypad-based password authentication.
 - Servo-controlled locking and unlocking.
-- Motion detection and user feedback.
+- PIR-based motion detection.
+- LCD feedback and buzzer alerts.
 - Successful and failed access-event logging.
 - Access timestamps and authentication-method tracking.
-- Firebase integration for data storage.
-- Web-based monitoring and access-management concepts.
+- Firebase Realtime Database integration.
+- Admin and user dashboard concepts.
+- Authorized card and password management.
+- Door-status monitoring and access statistics.
 
-Focus: Embedded systems, access control, event logging, and IoT security.
+**Objective:** Explore the integration of embedded systems, access-control mechanisms, databases, and monitoring interfaces in a practical IoT security solution.
 
-2. BGPView — BGP Network Simulation
+### 2. BGPView — Global Network Policy Simulation
 
-Technologies: Cisco Packet Tracer, BGP, IPv4, routers, and switches.
+**Technologies:** Cisco Packet Tracer, BGP, IPv4, routers, switches, and PCs.
 
-A network simulation project focused on interdomain routing and routing-policy behavior.
+A network simulation project focused on interdomain routing, Autonomous Systems, and routing-policy behavior.
 
-- Design a topology containing multiple Autonomous Systems.
+Key activities:
+
+- Design a topology containing four routers across separate Autonomous Systems.
 - Configure BGP peering relationships.
 - Advertise and exchange network prefixes.
-- Explore route maps and prefix filtering.
+- Apply route maps and prefix filtering.
 - Inspect BGP neighbors and routing tables.
 - Test connectivity between LANs.
-- Investigate link failures and routing convergence.
+- Simulate link failures and observe routing convergence.
+- Document network configurations and test results.
 
-Focus: BGP fundamentals, routing policies, and network troubleshooting.
+**Objective:** Develop a practical understanding of BGP operation, routing policies, and communication across multiple Autonomous Systems.
 
-3. Web Application Security Labs
+### 3. Web Application Penetration Testing — OWASP Juice Shop
 
-Technologies: Kali Linux, OWASP Juice Shop, Burp Suite, OWASP ZAP, Nmap, Docker, and browser developer tools.
+**Technologies:** Kali Linux, OWASP Juice Shop, Burp Suite, OWASP ZAP, Nmap, Docker, and browser developer tools.
 
-A collection of coursework and controlled security exercises focused on identifying and understanding common web application vulnerabilities.
+A web security coursework project focused on understanding common application vulnerabilities in a controlled testing environment.
 
-Topics explored:
+Topics investigated:
 
 - SQL Injection and authentication weaknesses.
-- Reflected, stored, and DOM-based XSS.
+- UNION-based SQL Injection concepts in SQLite-backed search functionality.
+- Reflected XSS, DOM-based XSS, and stored XSS concepts.
 - IDOR and authorization weaknesses.
-- Information disclosure and exposed logs.
+- Exposed logs and information disclosure.
 - HTTP security headers and missing HSTS.
-- Input validation and file-handling weaknesses.
-- HTTP request and response inspection.
-- Vulnerability impact and remediation concepts.
+- Input validation and file-extension handling.
+- Poison Null Byte vulnerability concepts.
+- Vulnerability impact and remediation approaches.
 
-Focus: Web security testing, vulnerability analysis, and secure development practices.
+The project also involved understanding HTTP requests and responses, interpreting application behavior, and documenting security findings.
 
-4. Linux Web Server & HTTP Traffic Analysis
+**Objective:** Understand how web vulnerabilities arise, how to investigate them responsibly, and how developers can reduce application security risks.
 
-Technologies: Linux, Apache HTTP Server, HTML, Wireshark, HTTP.
+### 4. Web Security Assessment — Apache & Wireshark
 
-A practical lab involving web-server configuration and network traffic inspection.
+**Technologies:** Linux, Apache HTTP Server, HTML, Wireshark, HTTP, and Kali Linux.
 
-- Configure a Linux web server.
-- Host an HTML page containing an identifiable test string.
-- Generate HTTP traffic through a browser.
-- Capture traffic using Wireshark.
+A practical security assessment exercise involving web-server setup and network traffic inspection.
+
+Planned assessment workflow:
+
+- Configure an Apache web server on Linux.
+- Host an assigned HTML page containing a unique test signature.
+- Access the page through a browser to generate HTTP traffic.
+- Capture the communication with Wireshark.
 - Inspect HTTP requests and responses.
-- Verify the expected content in the captured response.
+- Locate the expected signature in the captured response.
 
-Focus: Web-server fundamentals, HTTP communication, and packet analysis.
+**Objective:** Understand basic web-server deployment, HTTP communication, packet capture, and network-level verification in an authorized lab.
 
-5. Python GUI Shell — Operating Systems Concepts
+### 5. Task Manager Dashboard
 
-Technologies: Python, Tkinter, command-line concepts.
+**Technologies:** HTML, CSS, JavaScript.
 
-A university-related project exploring how shell-style commands and file-management operations can be presented through a graphical interface.
+A browser-based task management application built to practice front-end development and interactive UI behavior.
 
-Related operating-system concepts include:
-
-- Process creation and execution.
-- Process lifecycle and waiting.
-- Signal-handling fundamentals.
-- Command execution and PATH.
-- Input/output redirection and pipes.
-- Built-in commands and command history.
-
-The exact implemented functionality should be documented in the repository.
-
-Focus: Python GUI development and operating-system fundamentals.
-
-6. Arabic PDF-to-Word OCR Converter
-
-Technologies: Python, PyMuPDF, python-docx, Tesseract OCR.
-
-A document-processing project exploring the conversion of Arabic PDF content into editable Word documents.
-
-- Extract selectable text from PDF files.
-- Explore OCR for scanned documents.
-- Generate DOCX output.
-- Configure Arabic OCR language data.
-- Investigate Arabic text recognition and numeral-recognition issues.
-- Explore local document-processing workflows.
-
-Focus: Python automation, OCR, and document processing.
-
-7. Task Manager Dashboard
-
-Technologies: HTML, CSS, JavaScript.
-
-A browser-based application for practicing front-end development and interactive user interfaces.
+Features:
 
 - Create, edit, and delete tasks.
 - Assign task priorities.
@@ -237,105 +296,198 @@ A browser-based application for practicing front-end development and interactive
 - Switch between dark and light themes.
 - Handle user interactions through JavaScript events.
 
-Focus: DOM manipulation, CRUD operations, and front-end fundamentals.
+**Objective:** Practice DOM manipulation, event handling, CRUD operations, and user-interface development.
 
-8. ESP32 Embedded Systems Experiments
+### 6. Basic Shell Implementation — Python GUI
 
-Technologies: ESP32, ESP8266, GPIO, DHT11, LEDs, and embedded programming.
+**Technologies:** Python, Tkinter, operating-system concepts, and command-line interfaces.
 
-A collection of embedded-systems exercises involving microcontroller outputs, sensors, and web-based controls.
+A university operating-systems assignment adapted into a graphical shell interface.
 
-- Control LEDs using GPIO pins.
-- Implement traffic-light sequences.
-- Read temperature and humidity sensor values.
-- Explore browser-based hardware control.
-- Troubleshoot libraries, wiring, and pin assignments.
+The original assignment covered concepts such as:
 
-Focus: Embedded programming, sensor integration, and hardware troubleshooting.
+- Process creation and execution concepts.
+- `fork()`, `exec()`, and `wait()`.
+- Signal handling and process lifecycle concepts.
+- Command execution and `$PATH`.
+- Input/output redirection.
+- Pipes and background execution.
+- Built-in commands such as `cd` and `exit`.
+- Optional job-control and command-history features.
 
-🔬 Current Research & Project Development
+The Python GUI adaptation focuses on presenting shell-style commands through a Tkinter interface and exploring file-management operations.
 
-Transformer Specification & BOM Validation System
+Example commands considered for the interface:
 
-Domain: Electrical transformer design and manufacturing.
+- `pwd`, `ls`, `cd`
+- `mkdir`, `rmdir`
+- `copy`, `move`, `del`
+- `touch`, `cat`, `clear`, `exit`
 
-My current graduation project explores a system that helps engineers validate customer requirements against transformer design documentation and the Bill of Materials (BOM).
+**Objective:** Connect operating-system fundamentals with Python programming and GUI development.
 
-The proposed workflow includes:
+### 7. Linux, Docker & Virtualization Labs
 
-- Receiving customer specifications and technical documents.
-- Extracting and organizing relevant specification data.
-- Comparing customer requirements with available design information.
-- Identifying missing, inconsistent, or potentially excessive BOM items.
-- Generating a structured review report.
-- Keeping the engineer responsible for reviewing and approving the results.
+**Technologies:** Kali Linux, Ubuntu Server, Docker, Docker Compose, VMware, Nginx, PHP-FPM, and MySQL.
 
-Objective: Reduce manual review effort, improve requirement traceability, and help identify discrepancies before procurement decisions are made.
+Practical exercises involving virtual machines, containerized services, and system troubleshooting.
 
-Status: Graduation project in development/planning. Features should be marked as implemented only after they have been built and tested.
+Activities include:
 
-Agentic AI & Content Automation Research
+- Setting up Linux virtual machines.
+- Running and inspecting Docker containers.
+- Exploring multi-service Docker Compose environments.
+- Working with web-server and database service containers.
+- Troubleshooting service availability and port conflicts.
+- Investigating permissions and software dependencies.
+- Configuring virtual network interfaces and gateways.
+- Performing host discovery and connectivity tests.
 
-I've also explored ideas involving AI agents and workflow automation, including:
+**Objective:** Strengthen Linux, containerization, virtualization, and infrastructure troubleshooting skills.
 
-- AI-assisted research and analysis of company websites and marketing content.
-- Structured collection of information from public sources.
-- Content analysis and insight generation.
-- Workflow automation using n8n.
-- Reusable inputs, reference assets, and content-generation workflows.
+### 8. ESP Traffic Light Controller
 
-These are research and design interests unless a specific implementation is available in the corresponding repository.
+**Technologies:** ESP32 / ESP8266, GPIO, LEDs, and embedded programming.
 
-🎓 Education & Training
+An embedded-systems exercise focused on controlling traffic-light sequences using a microcontroller.
 
-El Sewedy University of Technology
+- Configure GPIO pins as digital outputs.
+- Control red, yellow, and green LEDs.
+- Implement timed traffic-light sequences.
+- Understand hardware connections and output states.
+- Troubleshoot GPIO assignments and LED wiring.
 
-My university studies and practical work span cybersecurity, networking, programming, cloud computing, IoT, and operating-system concepts.
+**Objective:** Practice basic embedded programming, digital I/O, and hardware integration.
 
-AI Security Training
+### 9. ESP32 Sensor & Web-Control Experiments
 
-Participated in university training involving AI-related projects and security research, including an AI chatbot concept for a Learning Management System.
+**Technologies:** ESP32, DHT11, LEDs, HTML, and embedded programming.
 
-Areas explored included:
+Experiments involving sensor readings and browser-based hardware control.
 
-- AI project research and competitive analysis.
-- Security considerations for AI-enabled applications.
-- Vulnerability identification and mitigation planning.
-- Security architecture and protection layers.
-- Collaboration between AI and cybersecurity team members.
-- Technical presentation and communication skills.
+- Interface a DHT11 temperature and humidity sensor.
+- Read sensor values using microcontroller code.
+- Control LEDs through a simple web interface.
+- Explore individual LED controls and an all-off function.
+- Experiment with automatic traffic-light behavior.
+- Troubleshoot libraries, pin assignments, and hardware connections.
 
-🧰 Technologies & Tools
+**Objective:** Explore the interaction between embedded devices, sensors, and browser-based control.
 
-Category| Technologies
-Programming| Python, JavaScript, HTML, CSS
-Operating Systems| Linux, Kali Linux, Ubuntu Server, Windows
-Web Security| Burp Suite, OWASP ZAP, OWASP Juice Shop
-Network Analysis| Wireshark, Nmap, Zenmap
-Networking| IPv4, subnetting, BGP, Cisco Packet Tracer
-Virtualization| VMware, virtual machines
-Containers| Docker, Docker Compose
-IoT| ESP32, ESP8266, RC522, DHT11, PIR
-Databases & Services| Firebase Realtime Database, MySQL concepts
-Python Libraries| PyMuPDF, python-docx, Tkinter
-OCR| Tesseract OCR
-Digital Forensics| Autopsy, The Sleuth Kit concepts
-Android Analysis| MobSF, JADX, APKTool concepts
-Security Research| AI security, web vulnerabilities, access control
+### 10. Arabic PDF-to-Word OCR Converter
 
-Tool inclusion reflects the relevance of a technology to my coursework, research, or projects; it does not imply advanced proficiency in every listed tool.
+**Technologies:** Python, PyMuPDF, python-docx, Tesseract OCR, and Arabic language data.
 
-💡 How I Approach Technical Problems
+A document-processing experiment for converting Arabic PDF files into editable Word documents.
 
-- Problem Solving: Break technical problems into smaller, testable steps.
-- Troubleshooting: Investigate configuration issues, dependencies, connectivity, and hardware behavior.
-- Hands-On Learning: Apply theoretical concepts through practical labs and experiments.
-- Systems Thinking: Understand the interaction between software, hardware, networks, and data.
-- Security Awareness: Examine vulnerabilities, potential impact, and mitigation approaches.
-- Technical Documentation: Record configurations, explain workflows, and document findings.
-- Continuous Learning: Improve through experimentation, feedback, and project-based development.
+- Extract selectable text from PDF documents.
+- Explore OCR for scanned PDF pages.
+- Generate editable DOCX documents.
+- Configure Tesseract and Arabic OCR language data.
+- Investigate Arabic text recognition and numeral-recognition issues.
+- Explore document-processing automation without relying on online conversion services.
 
-📈 GitHub Statistics
+**Objective:** Learn about OCR, document extraction, and automated processing of Arabic-language documents.
+
+---
+
+## 🔬 Additional Security & Infrastructure Labs
+
+### Network Security
+
+- Host discovery and network scanning.
+- Connectivity testing and routing troubleshooting.
+- Network interface inspection.
+- Packet capture and protocol analysis.
+- Virtualized security lab configuration.
+
+### Vulnerability Analysis
+
+- SQL Injection and authentication weaknesses.
+- Cross-Site Scripting (XSS).
+- IDOR and access-control problems.
+- Information disclosure and exposed logs.
+- HTTP security headers and application misconfiguration.
+- Vulnerability impact, documentation, and remediation.
+
+### Security Infrastructure
+
+- Firewall policies and access control.
+- NAT and IPsec VPN concepts.
+- Identity-based firewall authentication, including FSSO concepts.
+- IDS/IPS and endpoint-security fundamentals.
+- Web filtering and application control.
+- WAF and malware sandboxing concepts.
+- OT/ICS security fundamentals.
+- Threat intelligence and MISP documentation.
+
+### SOC & SIEM Learning
+
+- SIEM architecture and log-collection concepts.
+- Security event correlation fundamentals.
+- Network traffic investigation.
+- IDS/IPS alerts and monitoring concepts.
+- Threat intelligence and incident-investigation fundamentals.
+- Security event documentation and analysis.
+
+These topics represent coursework, research, and practical learning at different levels of experience.
+
+---
+
+## 🎓 Education & Coursework
+
+**Institution:** El Sewedy University for Technology
+
+Relevant academic subjects and areas of study include:
+
+- **IoT (CET321):** Connected devices, sensors, microcontrollers, and embedded applications.
+- **Cloud Computing (CET322):** Cloud service models, deployment models, virtualization, virtual machines, and containers.
+- **Web Programming (CET214):** HTML, CSS, JavaScript, and interactive web applications.
+- **Security Policy (CET331):** Security policies, threats, risk management, and related security concepts.
+- **Applied Mathematics I (GEN111):** Mathematical foundations for technical studies.
+
+My academic work helps me connect programming, networking, hardware, infrastructure, and security through practical assignments and technical projects.
+
+---
+
+## 🧰 Tools & Development Environment
+
+| Category | Technologies |
+|---|---|
+| Programming | Python, JavaScript, HTML, CSS |
+| Shell & OS Concepts | Linux CLI, Bash fundamentals, operating-system concepts |
+| Cybersecurity | Kali Linux, Nmap, Zenmap, Burp Suite, OWASP ZAP, Metasploit |
+| Network Analysis | Wireshark, Nmap, Cisco Packet Tracer |
+| Web Security | OWASP Juice Shop, DVWA concepts, HTTP analysis |
+| Networking | IPv4, subnetting, BGP, routing policies |
+| Cloud & Containers | Docker, Docker Compose, cloud computing concepts |
+| Virtualization | VMware |
+| Linux Environments | Kali Linux, Ubuntu Server |
+| IoT & Embedded Systems | ESP32, ESP8266, RC522, DHT11, PIR, servo motors |
+| Databases & Services | Firebase Realtime Database, MySQL, PHP-FPM |
+| Digital Forensics | Autopsy, The Sleuth Kit |
+| Android Analysis | MobSF, JADX, APKTool |
+| Security Infrastructure | FortiGate-related technologies, WAF, IDS/IPS concepts |
+| Document Automation | PyMuPDF, python-docx, Tesseract OCR |
+| Version Control | Git, GitHub |
+
+Tools are listed according to their relevance to my coursework, projects, and learning activities; inclusion does not imply advanced proficiency in every tool.
+
+---
+
+## 💡 Core Strengths
+
+- **Problem Solving:** Breaking technical challenges into smaller, testable steps.
+- **Troubleshooting:** Investigating configuration issues, software dependencies, network connectivity, and hardware problems.
+- **Hands-On Learning:** Applying theoretical concepts through practical projects and controlled labs.
+- **Systems Thinking:** Understanding how hardware, software, networking, and databases interact.
+- **Security Awareness:** Recognizing common vulnerabilities and learning defensive practices.
+- **Technical Documentation:** Explaining architectures, configurations, findings, and test results.
+- **Continuous Learning:** Exploring unfamiliar technologies and improving through experimentation.
+
+---
+
+## 📈 GitHub Activity
 
 <p align="center">
   <a href="https://github.com/Veroxs0">
@@ -344,28 +496,39 @@ Tool inclusion reflects the relevance of a technology to my coursework, research
   <a href="https://github.com/Veroxs0">
     <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Veroxs0&layout=compact&hide_border=true&theme=github_dark" alt="Most Used Languages">
   </a>
-</p><p align="center">
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Veroxs0&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak">
-</p>🎯 Current Goals
+</p>
 
-- Strengthen cybersecurity and defensive security foundations.
-- Develop practical AI security and LLM security skills.
-- Improve web application testing and vulnerability reporting.
-- Build Python tools for automation and technical problem-solving.
-- Expand Linux, networking, and infrastructure knowledge.
-- Develop secure and well-documented projects.
-- Explore SIEM, security monitoring, and incident investigation.
-- Continue building IoT and embedded-systems projects.
-- Document project architectures, testing procedures, and results.
+---
 
-🤝 Let's Connect
+## 🎯 Current Goals
 
-I'm interested in cybersecurity, AI security, networking, Linux, and collaborative technical projects.
+- Strengthen my cybersecurity foundations and SOC analysis skills.
+- Develop practical experience with SIEM, log analysis, and security monitoring.
+- Improve web application security testing and vulnerability reporting.
+- Expand Linux administration, Bash scripting, and Python automation skills.
+- Improve networking knowledge, particularly BGP and routing policies.
+- Build additional IoT and embedded-systems projects.
+- Deepen my understanding of cloud computing, Docker, and virtualization.
+- Continue exploring digital forensics and Android application analysis.
+- Document projects with clear architectures, configurations, and results.
+- Build a portfolio that demonstrates practical technical learning.
+
+---
+
+## 🤝 Let's Connect
+
+I'm interested in cybersecurity, networking, cloud infrastructure, IoT, and collaborative technical learning.
 
 <p align="center">
   <a href="https://github.com/Veroxs0">
     <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github" alt="Explore My GitHub">
   </a>
-</p><p align="center">
+</p>
+
+<p align="center">
   <i>Learning by building. Improving by experimenting. Growing through every challenge.</i>
 </p>
